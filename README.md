@@ -1,1 +1,1 @@
-HauntedHouseAssignment
+HauntedHouseProject
